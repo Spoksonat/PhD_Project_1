@@ -1,0 +1,68 @@
+{
+    "Racemic_L0": {
+        "Logbook_scan_name": "Racemic_L0",
+        "Scan_label": "Racemic, $L = 0$",
+        "Initial run": 1,
+        "Final run": 1,
+        "Ignored runs": [],
+        "Ignored scans": [],
+        "Considered runs": [1],
+        "Suffix group": "",
+        "Notes": ""
+    },
+    "Racemic_Lp1": {
+        "Logbook_scan_name": "Racemic_Lp1",
+        "Scan_label": "Racemic, $L = 1$",
+        "Initial run": 1,
+        "Final run": 1,
+        "Ignored runs": [],
+        "Ignored scans": [],
+        "Considered runs": [1],
+        "Suffix group": "",
+        "Notes": ""
+    },
+    "Racemic_Ln1": {
+        "Logbook_scan_name": "Racemic_Ln1",
+        "Scan_label": "Racemic, $L = -1$",
+        "Initial run": 1,
+        "Final run": 1,
+        "Ignored runs": [],
+        "Ignored scans": [],
+        "Considered runs": [1],
+        "Suffix group": "",
+        "Notes": ""
+    },
+    "Lambda_Lp1": {
+        "Logbook_scan_name": "Lambda_Lp1",
+        "Scan_label": "$\\Lambda$, $L = 1$",
+        "Initial run": 3,
+        "Final run": 9,
+        "Ignored runs": [],
+        "Ignored scans": [1380, 1385],
+        "Considered runs": [1,2,3,5],
+        "Suffix group": "",
+        "Notes": ""
+    },
+    "Lambda_Ln1": {
+        "Logbook_scan_name": "Lambda_Ln1",
+        "Scan_label": "$\\Lambda$, $L = -1$",
+        "Initial run": 3,
+        "Final run": 11,
+        "Ignored runs": [],
+        "Ignored scans": [4476, 4904, 4996],
+        "Considered runs": [1,2,4,5,6,7,8,9],
+        "Suffix group": "",
+        "Notes": ""
+    },
+    "Lambda_L0": {
+        "Logbook_scan_name": "Lambda_L0",
+        "Scan_label": "$\\Lambda$, $L = 0$",
+        "Initial run": 4,
+        "Final run": 10,
+        "Ignored runs": [6],
+        "Ignored scans": [5990, 6202],
+        "Considered runs": [1,2,3,4,5],
+        "Suffix group": "b",
+        "Notes": "New Lambda solution made - sample refreshed"
+    }
+}
