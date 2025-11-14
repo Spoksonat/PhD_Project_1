@@ -1,0 +1,1 @@
+Location where the (partial) results will be saved (in the form of .h5 files).
