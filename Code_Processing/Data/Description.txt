@@ -1,0 +1,1 @@
+Data: Location where the scan data is stored.
